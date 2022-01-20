@@ -46,7 +46,7 @@ plt.show()
 ```
 
 ## Output:
-![github](./univariantans.png)
+![ex09](./ex09.png)
 
 ## Result:
 The expected result has been successfully generated.
