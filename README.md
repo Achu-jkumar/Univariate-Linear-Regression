@@ -49,4 +49,5 @@ plt.show()
 ![ex09](./ex09.png)
 
 ## Result:
-The expected result has been successfully generated.
+The univariate Linear Regression to fit a straight line using least squares has been successfully implemented.
+
